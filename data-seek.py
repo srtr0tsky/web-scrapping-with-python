@@ -16,7 +16,7 @@ option.add_argument('--headless')
 option.add_argument()
 link_to_data_seek = "https://www.worldometers.info/gdp/gdp-by-country/"
 
-# We recommend that you download the page to your computer and place the path in the variable: 
+# We recommend that you download the page to your computer and place the path in this variable: 
 # link_to_data_seek = "./GDP_by_Country_-_Worldometer.html"
 
 try:
