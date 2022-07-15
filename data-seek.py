@@ -1,7 +1,7 @@
 """
 Created on Fri Jul 15 00:08:10 2022
 
-@author: vinicius bispo and Pedro Caleze
+@author: Vinicius Bispo and Pedro Caleze
 """
 
 from selenium import webdriver 
