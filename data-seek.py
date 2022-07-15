@@ -13,7 +13,6 @@ from webdriver_manager.firefox import GeckoDriverManager
 service = Service(executable_path=(GeckoDriverManager().install()))
 option = Options()
 option.add_argument('--headless')
-option.add_argument()
 link_to_data_seek = "https://www.worldometers.info/gdp/gdp-by-country/"
 
 # We recommend that you download the page to your computer and place the path in this variable: 
