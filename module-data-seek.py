@@ -3,7 +3,7 @@
 """
 Created on Fri Jul 15 02:49:04 2022
 
-@author: Vinicius Bispo and Pedro Caleze
+@author: Vinicius Bispo and Pedro Calderaro
 """
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
